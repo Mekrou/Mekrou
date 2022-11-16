@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mekrou
-- 🌱 I’m currently learning CS50
+- 🌱 
 
 <!---
 Mekrou/Mekrou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
