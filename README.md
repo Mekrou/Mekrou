@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mekrou
-- 🌱 Learning web development
+- 🌱 Learning everything, everywhere, all at once.
 
 <!---
 Mekrou/Mekrou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
