@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mekrou
-- 🌱 Learning everything, everywhere, all at once.
+- 🌱 Sophomore Computer Science student at Kennesaw State University
 
 <!---
 Mekrou/Mekrou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
